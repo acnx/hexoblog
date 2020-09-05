@@ -1816,7 +1816,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #17cb0f;
+  background: #1fff04;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3147,7 +3147,7 @@ a.my-post-title-link:hover {
   text-decoration: none;
   font-size: 0.8rem;
   cursor: pointer;
-  line-height: 0;
+  line-height: 1;
 }
 @media (max-width: 767px) {
   .my-post-title {
